@@ -34,3 +34,20 @@ export EDK_TOOLS_PATH=$HOME/edk2/BaseTools
 
 
 
+## 修改Conf/target.txt
+
+```
+TARGET_ARCH = X64
+TOOL_CHAIN_TAG        = GCC
+```
+
+
+
+
+
+
+
+
+
+
+
